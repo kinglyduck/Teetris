@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Models.cs" />
      <Compile Include="Assets\Movement.cs" />
+     <Compile Include="Assets\Player2Movement.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
