@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Board.cs" />
      <Compile Include="Assets\Models.cs" />
      <Compile Include="Assets\Movement.cs" />
      <Compile Include="Assets\Player2Movement.cs" />
