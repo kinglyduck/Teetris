@@ -6,7 +6,11 @@ public class Board : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		string RandBlock = Models.Variables [(int)Random.Range (0, 6)];
-		Models.Lookup (RandBlock);
+
+
+		//Random Block Generation
+		/////////////////////////////////////////////////////////////////
+		//string RandBlock = Models.Variables [(int)Random.Range (0, 6)];
+		//Models.Lookup (RandBlock);
 	}
 }
